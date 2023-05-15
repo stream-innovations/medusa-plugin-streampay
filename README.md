@@ -1,4 +1,4 @@
-## Introduction to Stream Payment Plugins:
+## Introduction to Stream Medusa Payment Plugin:
 
 #### Receive payments on your Medusa applications using StreamPay.
 
