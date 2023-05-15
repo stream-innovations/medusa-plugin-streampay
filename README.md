@@ -1,20 +1,18 @@
 ## Introduction to Stream Payment Plugins:
 
-#### Receive payments on your e-commerce applications using StreamPay.
+#### Receive payments on your Medusa applications using StreamPay.
 
-Stream Payment Plugins offer a seamless solution for receiving payments on your e-commerce applications, specifically designed for integration with popular platforms like Medusa, WooCommerce (WordPress), Shopify, Magento, and Prestashop. With StreamPay, you can streamline your payment processes and provide a convenient and secure payment experience for your customers.
+Stream Payment Plugins offer a seamless solution for receiving payments on your Medusa application, specifically designed for integration with popular platforms like Medusa, WooCommerce (WordPress), Shopify, Magento, and Prestashop. With StreamPay, you can streamline your payment processes and provide a convenient and secure payment experience for your customers.
 
-By integrating StreamPay into your e-commerce applications, you can offer a wide range of payment options to your customers, including traditional methods like credit cards, as well as emerging payment technologies like cryptocurrencies. This flexibility enables you to cater to a broader customer base and adapt to evolving payment trends.
+By integrating StreamPay into your Medusa application, you can offer a wide range of payment options to your customers, including traditional methods like credit cards, as well as emerging payment technologies like cryptocurrencies. This flexibility enables you to cater to a broader customer base and adapt to evolving payment trends.
 
-Whether you're using Medusa, WooCommerce, Magento, or Prestashop, Stream Payment Plugins provide a seamless integration experience. You can easily configure and customize the plugins to match your specific business requirements, ensuring a seamless and consistent payment experience across your entire platform.
+Whether you're using Medusa Stream web3 Payments Plugins provide a seamless integration experience. You can easily configure and customize the plugins to match your specific business requirements, ensuring a seamless and consistent payment experience across your entire platform.
 
 Stream Payment Plugins simplify the payment process by handling the necessary authentication, communication, and transaction management with the StreamPay payment system. This integration ensures that payment data is securely transmitted, processed, and validated, giving you and your customers peace of mind.
 
-By leveraging StreamPay's robust features, such as real-time payment tracking, automatic order updates, and comprehensive reporting, you can gain valuable insights into your payment operations and streamline your business processes. With Stream Payment Plugins, you can focus on growing your business while StreamPay takes care of your payment needs.
+By leveraging StreamPay's robust features, such as real-time payment tracking, automatic order updates, and comprehensive reporting, you can gain valuable insights into your payment operations and streamline your business processes. With Stream Medusa Commerce Payment Plugin, you can focus on growing your business while StreamPay takes care of your payment needs.
 
-Whether you're managing an online store, a marketplace, or any other e-commerce application, Stream Payment Plugins offer a reliable and efficient solution to receive payments. With support for multiple platforms and a wide range of payment options, you can enhance the payment experience for your customers and drive growth for your business.
-
-Start accepting payments seamlessly on your Medusa, WooCommerce, Magento, or Prestashop-based e-commerce applications with Stream Payment Plugins and empower your business with secure, flexible, and convenient payment solutions.
+Start accepting payments seamlessly on your Medusa e-commerce application with Stream Payment Plugins and empower your business with secure, flexible, and convenient payment solutions.
 
 ### Web3 payment features: 
 
