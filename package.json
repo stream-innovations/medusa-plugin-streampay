@@ -1,0 +1,11 @@
+{
+  "name": "medusajs-streampay-payment-plugin",
+  "version": "1.0.0",
+  "description": "Payment processing plugin for MedusaJS with StreamPay",
+  "author": "Stream Protocol",
+  "license": "MIT",
+  "dependencies": {
+    "streampay": "^1.0.0",
+    "medusa-ecommerce": "^1.12.1"
+  }
+}
